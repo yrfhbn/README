@@ -11,8 +11,9 @@ An autonomous web agent that navigates and completes tasks across websites using
 - A React-based dashboard for monitoring agent runs, viewing action logs, and inspecting page observations in real time
 - Dockerized benchmark websites with Docker Compose, each configured with and without WebMCP tool declarations for controlled comparison
 
-[🔗 Live Demo](#)
-
+**Results:**
+- ~45% task completion on a WebArena benchmark website via BrowserGym integration
+- Designing a 800+ benchmark tasks across 5 Dockerized websites evaluating WebMCP's impact on agent reliability
 ---
 
 Note: My work is in private repositories
